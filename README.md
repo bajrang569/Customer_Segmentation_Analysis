@@ -9,13 +9,21 @@ The dataset contains 2240 entries with 29 attributes representing customer demog
 
 **Key Columns:
 ID: Unique customer identifier
+
 Year_Birth: Year of birth of the customer
+
 Education: Education level (e.g., Graduation, PhD)
+
 Income: Annual income in monetary units
+
 Kidhome & Teenhome: Number of children and teenagers at home
+
 Recency: Number of days since the last purchase
+
 MntWines, MntMeatProducts, etc.: Amount spent on various product categories
+
 NumWebPurchases, NumStorePurchases: Purchase channel data
+
 Response: Indicator of campaign response (1 = Yes, 0 = No)**
 
 🎯 Objectives
